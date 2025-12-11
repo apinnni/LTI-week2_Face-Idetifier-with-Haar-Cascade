@@ -26,7 +26,7 @@ File external yang perlu di download:
 
 1.  **Clone** repositori dari GitHub:
     ```bash
-    git clone <URL_REPO>
+    git clone https://github.com/apinnni/Face-Idetifier-with-Haar-Cascade.git
     ```
 
 2.  Masuk ke direktori proyek yang baru di-*clone*:
